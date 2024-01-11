@@ -1,4 +1,4 @@
-<h1>Hi, I'm Jorge! <br/><a href="https://github.com/joshmadakor1">Full Stack Developer</a>, <a href="https://www.linkedin.com/in/joshmadakor/"> Motivated Cybersecurity Professional</a>, <a href="https://www.youtube.com/c/joshmadakor"></a></h1>
+<h1>Hi, I'm Jorge! <br/><a href="https://github.com/joshmadakor1">Full Stack Developer</a>, <a href="https://www.linkedin.com/in/joshmadakor/"> Motivated Cybersecurity Professional</a> <a href="https://www.youtube.com/c/joshmadakor"></a></h1>
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
