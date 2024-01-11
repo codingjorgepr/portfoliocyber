@@ -17,7 +17,4 @@
 
 
 
-[linkedin]: www.linkedin.com/in/jorge-ramostech
-
-
--->
+[linkedin]: https://www.linkedin.com/in/jorge-ramostech/
